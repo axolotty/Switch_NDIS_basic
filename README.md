@@ -1,4 +1,4 @@
-# 🔌 Switch_NDIS_basic — Basculement mode réseau Raspberry Pi Zero
+# 🔌 Switch_NDIS_basic - Basculement mode réseau Raspberry Pi Zero
 
 ![Bash](https://img.shields.io/badge/Bash-5%2B-informational?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-8%2B-777BB4?style=for-the-badge)
